@@ -4,6 +4,8 @@ I was given the task of doing this for a technical challenge.
 
 Basically what it does is fetch posts from the subreddit /r/pics and displays them.
 
+Each post consists of an image, a title, the date format of when it was created (2 hours ago), the users name who created the post, the score and the amount of comments.
+
 At the top of the page there is a tab navigator to be able to navigate from tab to tab.
 
 There are 4 tabs that each contain a different type of sort.
