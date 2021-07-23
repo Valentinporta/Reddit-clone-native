@@ -11,8 +11,11 @@ There are 4 tabs that each contain a different type of sort.
 Sorts:
 
 1- 'New' sorts the posts by date of creation from newest to oldest
+
 2- 'Top' sorts the posts by amount of upvotes from most voted to least voted
+
 3- 'Hot' sorts the posts by the most upvoted in the last hour
+
 4- 'Controversial' sorts the posts taking in account the amount of upvotes minus the amount of downvotes
 
 You can also click on each post and it will open up a WebView component that shows the image of the post.
